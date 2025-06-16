@@ -1,10 +1,14 @@
-# Hi there, I'm Zainul Mutawakkil 👋
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtaW5hMWs5MTRsczF5dW1tNnd2b2U5ajFqc3A3Z3JkdjBocGgzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoMAgT37/giphy.gif" width="600" />
-</p>
-
-A passionate Full-Stack Developer & IoT Enthusiast from Indonesia. I specialize in bridging the gap between hardware and software, building everything from smart IoT solutions to seamless web applications. My goal is to craft impactful digital experiences that are both functional and user-friendly.
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="40%" valign="top">
+      <img src="https://media.tenor.com/11x91_d97oAAAAAC/vanilla-neko-para.gif" alt="Vanilla from Nekopara" width="100%"/>
+    </td>
+    <td width="60%" valign="top">
+      <h2>Hi there, I'm Zainul Mutawakkil 👋</h2>
+      <p>A passionate Full-Stack Developer & IoT Enthusiast from Indonesia. I specialize in bridging the gap between hardware and software, building everything from smart IoT solutions to seamless web applications. My goal is to craft impactful digital experiences that are both functional and user-friendly.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -43,7 +47,7 @@ I'm always open to collaborating on innovative IoT projects, web applications, o
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https.img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   </p>
   
   <h4>Databases</h4>
