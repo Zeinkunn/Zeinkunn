@@ -1,21 +1,13 @@
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="40%" valign="top">
-      <img src="https://media.tenor.com/11x91_d97oAAAAAC/vanilla-neko-para.gif" alt="Vanilla from Nekopara" width="100%"/>
-    </td>
-    <td width="60%" valign="top">
-      <h2>Hi there, I'm Zainul Mutawakkil 👋</h2>
-      <p>A passionate Full-Stack Developer & IoT Enthusiast from Indonesia. I specialize in bridging the gap between hardware and software, building everything from smart IoT solutions to seamless web applications. My goal is to craft impactful digital experiences that are both functional and user-friendly.</p>
-    </td>
-  </tr>
-</table>
+# Hi there, I'm Zainul Mutawakkil 👋
 
----
+<p>
+  <img align="left" src="https://github.com/Zeinkunn/github-assets/blob/main/vanilla-neko-para.gif?raw=true" width="135" />
+  <div>
+    "As a passionate Full-Stack Developer and IoT Enthusiast from Indonesia, I thrive on the challenge of bridging the physical and digital worlds. My expertise lies in architecting end-to-end solutions, from designing and programming embedded systems that capture real-world data to developing seamless web applications that present it through intuitive dashboards. My ultimate goal is to craft impactful digital experiences that are not only functional and user-friendly but also scalable and maintainable."
+  </div>
+</p>
 
-### 🚀 What I'm Currently Focused On
--   Building modular dashboards with **Laravel, React, and Inertia.js**.
--   Developing smart farming solutions using **ESP32, LoRa, and solar power**.
--   Creating an anime-themed web platform and merchandise store under the **NekoVerse** project.
+
 
 ### 🌱 Let’s Collaborate!
 I'm always open to collaborating on innovative IoT projects, web applications, or other creative tech ideas. Feel free to reach out or fork one of my projects!
@@ -47,7 +39,7 @@ I'm always open to collaborating on innovative IoT projects, web applications, o
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https.img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   </p>
   
   <h4>Databases</h4>
@@ -130,6 +122,8 @@ I'm always open to collaborating on innovative IoT projects, web applications, o
   <a href="https://patreon.com/zeinkunn" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Zeinkunn&icon=0&color=0" alt="Visitor Count" />
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Zeinkunn/count.svg?"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/Zeinkunn/Zeinkunn/output/snake.svg" alt="Snake animation" />
