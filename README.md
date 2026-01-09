@@ -122,8 +122,4 @@ I'm always open to collaborating on innovative IoT projects, web applications, o
   <a href="https://patreon.com/zeinkunn" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Zeinkunn/count.svg?"  />
-</div>
-
 <img src="https://raw.githubusercontent.com/Zeinkunn/Zeinkunn/output/snake.svg" alt="Snake animation" />
