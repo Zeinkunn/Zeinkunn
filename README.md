@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi there, I'm Zainul Mutawakkil
+  # Hi there, I'm Zein
   
   <img src="https://github.com/Zeinkunn/github-assets/blob/main/vanilla-neko-para.gif?raw=true" width="120" alt="Neko gif" />
 
