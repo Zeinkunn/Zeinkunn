@@ -1,9 +1,10 @@
 <div align="center">
+  
+  # Hi there, I'm Zainul Mutawakkil
+  
   <img src="https://github.com/Zeinkunn/github-assets/blob/main/vanilla-neko-para.gif?raw=true" width="120" alt="Neko gif" />
   
-  # Hi there, I'm Zainul Mutawakkil 👋
-  
-  **Full-Stack Developer & IoT Enthusiast 🇮🇩**
+  **Full-Stack Developer & IoT Enthusiast**
   
   *Bridging the physical and digital worlds through scalable web applications and embedded systems.*
   
