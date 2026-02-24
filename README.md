@@ -3,7 +3,7 @@
   # Hi there, I'm Zainul Mutawakkil
   
   <img src="https://github.com/Zeinkunn/github-assets/blob/main/vanilla-neko-para.gif?raw=true" width="120" alt="Neko gif" />
-  
+
   **Full-Stack Developer & IoT Enthusiast**
   
   *Bridging the physical and digital worlds through scalable web applications and embedded systems.*
@@ -49,10 +49,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeinkunn&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeinkunn&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zeinkunn&short_numbers=true)](https://git.io/streak-stats)
 
 <br/>
 
