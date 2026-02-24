@@ -17,7 +17,7 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zeinkunn&short_numbers=true)](https://git.io/streak-stats)
 
